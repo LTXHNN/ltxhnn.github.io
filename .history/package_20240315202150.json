@@ -1,0 +1,15 @@
+{
+  "name": "ltx-blog",
+  "version": "1.0.0",
+  "description": "个人网址基于vitepress",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.45"
+  },
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build", // 执行后会在.vitepress目录下生成dist目录
+    "serve": "vitepress serve" // 执行.vitepress目录下dist中的内容
+  }
+}
