@@ -2,13 +2,13 @@ module.exports = {
   title: "blog",
   description: "Front end project and tips sharing",
   icon: "/logo.png",
-
+  base: '/ltxhnn.github.io/'
 }
 
 module.exports = {
   title: "blog",
   description: "Front end project and tips sharing",
-
+  base: '/ltxhnn.github.io/',
   themeConfig: {
 
     siteTitle: "LTX的个人网站",  //左上角的

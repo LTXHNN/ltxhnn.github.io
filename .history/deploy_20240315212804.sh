@@ -14,7 +14,7 @@ git add -A
 git commit -m 'deploy'
  
 #git push -f git@github.com:LTXHNN/ltxblog.github.io.git master
-git push -f origin git@gitee.com:yujunfu/ltxhnn.gitee.io.git master #提交到这个分支
+git push -f git@github.com:LTXHNN/ltxblog.github.io.git master #提交到这个分支
  
 cd -
  
